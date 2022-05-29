@@ -2,8 +2,8 @@
 #  Today's frame
 #  오늘 당신의 하루는 어땠나요?
 
-**Project nickname: 송민주**
-**Project execution period : 2022. 04~2022.05**
+**Project nickname: 송민주**  
+# **Project execution period : 2022. 04~2022.05**
 ***
 
 ## Description
